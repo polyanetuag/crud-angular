@@ -19,12 +19,25 @@ export class ProductService {
       verticalPosition: "top",
     });
   }
-  //interação com o backend
+  //interação com o backend - criação dos produtos
   create(product: Product): Observable<Product> {
     return this.http.post<Product>(this.baseUrl, product);
   }
 
+  // leitura dos produtos
   read(): Observable<Product[]> {
     return this.http.get<Product[]>(this.baseUrl);
+  }
+
+  // busca de produtos por id
+  readById(id: string): Observable<Product> {
+    const url = `${this.baseUrl}/ ${id}`;
+    return this.http.get<Product>(url);
+  }
+
+  //atualizar produtos
+  update(product: Product): Observable<Product> {
+    const url = `${this.baseUrl}/ ${product.id}`;
+    return this.http.put<Product>(url, product);
   }
 }
