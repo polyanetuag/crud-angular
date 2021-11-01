@@ -12,6 +12,7 @@ export class ProductUpdateComponent implements OnInit {
   product: Product = {
     name: "",
     price: null,
+    id: 0,
   };
 
   constructor(
