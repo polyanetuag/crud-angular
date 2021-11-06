@@ -50,7 +50,7 @@ $ yarn
 $ yarn start
 ```
 
-Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
+Depois, abra http://localhost:4000 com seu navegador para ver o resultado.
 
 ## 📝 Licença
 
