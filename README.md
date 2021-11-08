@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sistema CRUD em Angular</h1>
-  <img width= '400' src="./github/fileapp.png" />
+  <img width= '600' src="./github/fileapp.png" />
 </div>
 
 <h3 align="center">  
