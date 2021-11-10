@@ -21,6 +21,7 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação CRUD(C
 - Angular
 - Typescript
 - NodeJs
+- Json Server
   
 ## ⏱ Como executar
 
