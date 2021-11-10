@@ -25,29 +25,34 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação CRUD(C
   
 ## ⏱ Como executar
 
-```bash
-# Clonar o repositório
+Primeiramente clone o repositório:
+```
 $ git clone https://github.com/polyanetuag/crud-angular.git
+```
+Há duas pastas: Backend e Frontend
 
-# Entrar na pasta  backend
+- Para a pasta Backend:
+
+```bash
+# Entre na pasta backend
 $ cd backend
 
-# Instalar as dependências
+# Instale as dependências
 $ yarn 
 
-# Iniciar o servidor
+# Inicie o servidor
 $ yarn start
 ```
+- Para a pasta Frontend:
 
 ```bash
-
-# Entrar na pasta  frontend
+# Entre na pasta frontend
 $ cd frontend
 
-# Instalar as dependências
+# Instale as dependências
 $ yarn 
 
-# Iniciar o servidor
+# Inicie o servidor
 $ yarn start
 ```
 
