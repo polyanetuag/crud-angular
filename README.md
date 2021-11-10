@@ -29,9 +29,9 @@ Primeiramente clone o repositório:
 ```
 $ git clone https://github.com/polyanetuag/crud-angular.git
 ```
-Há duas pastas: Backend e Frontend
+Nele, há duas pastas: Backend e Frontend
 
-- Para a pasta Backend:
+- Para executar a pasta Backend:
 
 ```bash
 # Entre na pasta backend
@@ -43,7 +43,7 @@ $ yarn
 # Inicie o servidor
 $ yarn start
 ```
-- Para a pasta Frontend:
+- Para executar a pasta Frontend:
 
 ```bash
 # Entre na pasta frontend
