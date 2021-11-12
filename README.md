@@ -25,7 +25,7 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação CRUD(C
   
 ## ⏱ Como executar
 
-Primeiramente clone o repositório:
+Primeiramente, clone o repositório:
 ```
 $ git clone https://github.com/polyanetuag/crud-angular.git
 ```
