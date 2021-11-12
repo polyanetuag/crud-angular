@@ -14,7 +14,7 @@
 
 ## 📚 Sobre
 
-O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação CRUD(Create, Read, Update e Delete) em Angular.
+O projeto tem como objetivo, o estudo e a construção de uma aplicação CRUD(Create, Read, Update e Delete) em Angular.
 
 ## 🚀 Tecnologias utilizadas:
 
